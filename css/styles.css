@@ -1,0 +1,25 @@
+.bg-header {
+  padding: .75rem 0;
+  background-color: transparent;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%), inset 0 -1px 0 rgb(0 0 0 / 15%);
+  background: #cb2d3e;
+  background: -webkit-linear-gradient(to right, #ef473a, #cb2d3e);
+  background: linear-gradient(to right, #ef473a, #cb2d3e);
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+i
+{
+  color: white;
+  font-size: 1.5em;
+}
+
+a
+{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
